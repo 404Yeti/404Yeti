@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @404Yeti
-- 👀 I’m interested in cybersecurity related projects
-- 🌱 I’m currently learning python, rust, go and javascript
-- 💞️ I’m looking to collaborate with other cybersecurity professionals
-- 📫 How to reach me you can contact me here
-- ⚡ Fun fact: I like to travel
+👾 Welcome to NotFoundSec Projects
+Curious, glitchy, and always exploring the unknown — just like our favorite Yeti.
+Here you’ll find tools, write-ups, and experiments in cybersecurity, OSINT, malware analysis, and more.
 
-<!---
-securerobbie/securerobbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Real projects.
+📂 Hands-on repos.
+🔒 Security with style.
+
+Got something cool to suggest or collaborate on? Drop a fork, open an issue, or summon the Yeti.
